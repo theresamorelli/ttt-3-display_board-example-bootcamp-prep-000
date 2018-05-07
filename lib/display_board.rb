@@ -8,3 +8,5 @@ def display_board
   puts h_line
   puts v_line
 end
+
+display_board
